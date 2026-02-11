@@ -1,0 +1,56 @@
+name: storytelling_app_new
+description: "A new Flutter project."
+
+publish_to: 'none' # This prevents publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  video_player: ^2.8.5
+  http: ^1.1.0
+  flutter_tts: ^4.0.2
+  animated_text_kit: ^4.2.2
+  audioplayers: ^5.2.0
+  rive: ^0.12.4
+  lottie: ^2.7.0
+  flutter_animate: ^4.5.0
+  just_audio: ^0.9.36
+  particle_field: ^0.0.1
+  flutter_markdown: ^0.6.18
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/audio/piano.mp3
+    - assets/audio/ironman.jpg
+    - assets/audio/jelly.jpg
+    - assets/image/background_image.avif
+    - assets/image/background_image.jpg
+    - assets/image/krishna.jpg
+    - assets/image/mys.jpg
+    - assets/audio/happy_forest.jpg
+    - assets/audio/dark_castle.avif
+    - assets/audio/battlefield.avif
+    - assets/audio/ambient_magic.mp3
+    - assets/audio/happy_chime.mp3
+    - assets/audio/birds_chirping.mp3
+    - assets/audio/mystery_sound.mp3
+    - assets/audio/wind_howling.mp3
+    - assets/audio/sword_clash.mp3
+    - assets/audio/epic_drums.mp3
+    # - assets/animations/
+    # - assets/particles/
