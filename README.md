@@ -11,12 +11,12 @@ Choose your adventure! Select from a variety of exciting themes including:
 -   **Adventure**: Embark on thrilling quests.
 -   **Fantasy**: Cast spells and visit enchanted kingdoms.
 
-![Select Theme](images/img_select_theme.jpeg)
+<img src="images/img_select_theme.jpeg" width="300" />
 
 ### Smart AI Storyteller
 Our friendly AI narrator retells classic tales and creates new ones based on your chosen themes, making every storytime unique and special.
 
-![Multi Language Story Telling](images/multi%20langusge%20story%20telling.jpeg)
+<img src="images/multi%20langusge%20story%20telling.jpeg" width="300" />
 
 ### Be Your Own Story Creator
 Unleash your creativity with our interactive "Be Your Own Story Creator" mode!
@@ -25,7 +25,7 @@ Unleash your creativity with our interactive "Be Your Own Story Creator" mode!
 3.  **Branching Paths**: Every choice leads to a different path, creating a unique story every time!
 4.  **Unlock Creativity**: Experiment with different choices to see all the possible outcomes!
 
-![Be Your Own Story Creator](images/be%20your%20own%20story%20creator.jpeg)
+<img src="images/be%20your%20own%20story%20creator.jpeg" width="300" />
 
 ### Voice Narration
 Sit back and listen! The app features engaging voice narration (Text-to-Speech) that brings every character and scene to life, making it accessible and fun for everyone.
@@ -37,7 +37,7 @@ Sit back and listen! The app features engaging voice narration (Text-to-Speech) 
 ### Achievements
 Track your reading progress and unlock fun achievements!
 
-![Achievement Overview](images/achievement_overview.jpeg)
+<img src="images/achievement_overview.jpeg" width="300" />
 
 ## Getting Started
 
