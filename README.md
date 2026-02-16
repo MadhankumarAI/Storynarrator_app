@@ -1,16 +1,70 @@
-# storytelling_app_new
+# 🍂 Story Narrator
 
-A new Flutter project.
+Story Narrator is a magical, Generative AI-powered storytelling application designed specifically for kids! Dive into a world where imagination knows no bounds, with interactive stories, custom themes, and a safe, engaging environment.
+
+## Features
+
+### Custom Themes
+Choose your adventure! Select from a variety of exciting themes including:
+-   **Sci-Fi**: Explore the galaxies and beyond!
+-   **Mythology**: Meet legendary creatures and heroes.
+-   **Adventure**: Embark on thrilling quests.
+-   **Fantasy**: Cast spells and visit enchanted kingdoms.
+
+![Select Theme](images/img_select_theme.jpeg)
+
+### Smart AI Storyteller
+Our friendly AI narrator retells classic tales and creates new ones based on your chosen themes, making every storytime unique and special.
+
+![Multi Language Story Telling](images/multi%20langusge%20story%20telling.jpeg)
+
+### Be Your Own Story Creator
+Unleash your creativity with our interactive "Be Your Own Story Creator" mode!
+1.  **Start the Journey**: The AI sets the scene with a fun opening.
+2.  **Make Choices**: You'll be presented with 3-4 exciting options at key moments.
+3.  **Branching Paths**: Every choice leads to a different path, creating a unique story every time!
+4.  **Unlock Creativity**: Experiment with different choices to see all the possible outcomes!
+
+![Be Your Own Story Creator](images/be%20your%20own%20story%20creator.jpeg)
+
+### Voice Narration
+Sit back and listen! The app features engaging voice narration (Text-to-Speech) that brings every character and scene to life, making it accessible and fun for everyone.
+
+### Kid-Safe & Accessible
+-   **Safe Content**: All stories are strictly filtered to ensure they are age-appropriate, with no offensive or adult language.
+-   **Simple UX**: Designed with simplicity in mind, making it easy for kids to navigate and enjoy independently.
+
+### Achievements
+Track your reading progress and unlock fun achievements!
+
+![Achievement Overview](images/achievement_overview.jpeg)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app is built using **Flutter**. To get started locally:
 
-A few resources to get you started if this is your first Flutter project:
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/MadhankumarAI/Storynarrator_app.git
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2.  **Install dependencies**:
+    ```bash
+    flutter pub get
+    ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.  **Run the app**:
+    ```bash
+    flutter run
+    ```
+
+## Tech Stack
+-   **Framework**: Flutter
+-   **AI**: Generative AI Integration (e.g., Gemini, OpenAI)
+-   **Voice**: Text-to-Speech (TTS)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+*Built with love for the storytellers of tomorrow.*
